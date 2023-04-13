@@ -4,20 +4,20 @@ with default rupee symbol (₹) or any custom symbol and with specified decimal 
 
 ## Installation
 ```
-npm install indian-currency-formatter
+npm install rupee-currency-formatter
 ```
 
 ## Usage
 ```
-import indianCurrancyFormat from 'indian-currency-formatter';
+import rupeeCurrencyFormatter from 'rupee-currency-formatter';
 
 or
 
-const indianCurrancyFormat = require('indian-currency-formatter');
+const rupeeCurrencyFormatter = require('rupee-currency-formatter');
 ```
 
 ## Examples
 ```
-console.log(indianCurrancyFormat(9876.54, 'INR', 3)); // INR 9,876.540
-console.log(indianCurrancyFormat(9876543.21)); // ₹ 9,876,543.21
+console.log(rupeeCurrencyFormatter(9876.54, 'INR', 3)); // INR 9,876.540
+console.log(rupeeCurrencyFormatter(9876543.21)); // ₹ 9,876,543.21
 ```
