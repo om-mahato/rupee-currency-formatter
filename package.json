@@ -1,0 +1,26 @@
+{
+  "name": "rupee-currency-formatter",
+  "version": "1.0.0",
+  "description": "Format any string or number into indian rupee standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/om-mahato/rupee-currency-formatter.git"
+  },
+  "keywords": [
+    "currency",
+    "indian",
+    "currency",
+    "formatter",
+    "rupee"
+  ],
+  "author": "om-mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/om-mahato/rupee-currency-formatter/issues"
+  },
+  "homepage": "https://github.com/om-mahato/rupee-currency-formatter#readme"
+}
